@@ -6,6 +6,6 @@ All lab material are in R and use openly available data available within the pac
 
 (2) Propensity score matching
 
-(3) Instrumental Variabe regression
+(3) Instrumental Variable regression
 
 (4) Causal mediation analysis
